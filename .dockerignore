@@ -1,0 +1,14 @@
+**/test_data
+**/__pycache__
+**/*.pyc
+**/*.ipynb
+**/*.mplstyle
+**/*.html
+**/*.csv
+flask_app/unit_tests.py
+notebooks/
+lending_club_data/
+images/
+project_utils/
+335.ipynb
+README.MD

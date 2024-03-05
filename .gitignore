@@ -1,0 +1,15 @@
+.DS_Store
+**/__pycache__/
+**/.ipynb_checkpoints
+lending_club_data/
+images/
+deeplearning.mplstyle
+pandas_profiling.html
+saved_model_pipelines/
+test_data/
+test.ipynb
+flask_app/data
+flask_app/saved_model_pipelines
+flask_app/mapping_data
+.dockergignore
+test_post.py
